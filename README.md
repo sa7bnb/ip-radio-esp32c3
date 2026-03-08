@@ -9,7 +9,7 @@ https://www.youtube.com/shorts/i9r1kPGAcrw
 
 ## Overview
 
-IP-Radio is a custom-built PTT (Push-To-Talk) system that relays 16 kHz mono PCM audio in real time over a local network. The system consists of two parts:
+IP-Radio is a custom-built PTT (Push-To-Talk) system that relays 16 kHz mono PCM audio in real time over a local network or internet. The system consists of two parts:
 
 - **Client** — firmware for the ESP32-C3 Xmini with ES8311 codec, OLED display, WS2812 RGB LED, and BOOT button as PTT.
 - **Server** — a Python application acting as an audio relay with a web-based administration panel.

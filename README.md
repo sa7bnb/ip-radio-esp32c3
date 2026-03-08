@@ -199,12 +199,6 @@ MAX_CLIENTS    = 20
                                                └─────────────────────┘
 ```
 
----
 
-## Licens
-
-Fri att använda och modifiera för personliga och experimentella ändamål.
-
----
 
 *Projekt av SA7BNB*

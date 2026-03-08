@@ -1,6 +1,7 @@
 # 📻 IP-Radio v1.0
 
 > Push-to-talk voice radio over UDP/IP — ESP32-C3 client + Python server with a web-based admin interface.
+https://www.youtube.com/shorts/i9r1kPGAcrw
 
 ![IP-Radio Server UI](server.png)
 
